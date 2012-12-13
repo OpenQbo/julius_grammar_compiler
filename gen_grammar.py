@@ -262,7 +262,7 @@ def helpmessage():
     print ("\tphonemsfilename: Name of the phonems file")
     print ("\ttiedlist: HMMlist file")
     print ("\tdestfilename: Name of the gramar, voca, dict to be created")
-    print ("Config gile format:")
+    print ("Config file format:")
     print ("\tUse \[\] to create labels.")
     print ("\tUse \{\} to reference labels.")
     print ("\tLabel 'sentences' is always needed.")
